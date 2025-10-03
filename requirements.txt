@@ -1,9 +1,6 @@
-pyaudio
-wave
-whisper
-transformers 
-T5ForConditionalGeneration, T5Tokenizer, pipeline
+flet
+openai-whisper
+transformers
 torch
 pyttsx3
-os
-flet 
+pyaudio
