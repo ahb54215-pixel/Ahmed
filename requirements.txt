@@ -1,0 +1,9 @@
+pyaudio
+wave
+whisper
+transformers 
+T5ForConditionalGeneration, T5Tokenizer, pipeline
+torch
+pyttsx3
+os
+flet 
