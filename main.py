@@ -127,4 +127,6 @@ def main(page: Page):
 
     page.add(ElevatedButton("تسجيل الصوت والاستجابة", on_click=record_and_respond))
 
-app(main)
+if __name__ == "__main__":
+    import flet as ft
+    ft.app(target=main)
